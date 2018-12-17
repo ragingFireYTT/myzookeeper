@@ -1,4 +1,4 @@
-package com.ytt.publishsubscibe;
+package com.ytt.publishsubscribe;
 
 public class ServerData {
 

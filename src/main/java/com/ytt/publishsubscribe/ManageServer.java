@@ -1,4 +1,4 @@
-package com.ytt.publishsubscibe;
+package com.ytt.publishsubscribe;
 
 import java.util.List;
 

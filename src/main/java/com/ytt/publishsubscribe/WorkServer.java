@@ -1,4 +1,4 @@
-package com.ytt.publishsubscibe;
+package com.ytt.publishsubscribe;
 import org.I0Itec.zkclient.IZkDataListener;
 import org.I0Itec.zkclient.ZkClient;
 import org.I0Itec.zkclient.exception.ZkNoNodeException;

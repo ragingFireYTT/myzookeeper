@@ -1,4 +1,4 @@
-package com.ytt.publishsubscibe;
+package com.ytt.publishsubscribe;
 
 /**
  * Created by ytt on 2018/11/1.
